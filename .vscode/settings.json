@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/bf853ecc-3b3f-4cf5-af4e-ca5a9aaee2fc/resourceGroups/appsvc_windows_centralus_basic2/providers/Microsoft.Web/sites/jufsdotnetwebservice",
+  "appService.deploySubpath": "Web Service dotnet/TodoApi"
+}

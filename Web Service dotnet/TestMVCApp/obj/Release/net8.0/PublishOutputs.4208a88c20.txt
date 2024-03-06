@@ -1,0 +1,7 @@
+/Volumes/Macintosh_ex/git/Azure_First_Steps/Web Service dotnet/TestMVCApp/bin/Publish/TestMVCApp
+/Volumes/Macintosh_ex/git/Azure_First_Steps/Web Service dotnet/TestMVCApp/bin/Publish/appsettings.Development.json
+/Volumes/Macintosh_ex/git/Azure_First_Steps/Web Service dotnet/TestMVCApp/bin/Publish/appsettings.json
+/Volumes/Macintosh_ex/git/Azure_First_Steps/Web Service dotnet/TestMVCApp/bin/Publish/TestMVCApp.dll
+/Volumes/Macintosh_ex/git/Azure_First_Steps/Web Service dotnet/TestMVCApp/bin/Publish/TestMVCApp.deps.json
+/Volumes/Macintosh_ex/git/Azure_First_Steps/Web Service dotnet/TestMVCApp/bin/Publish/TestMVCApp.runtimeconfig.json
+/Volumes/Macintosh_ex/git/Azure_First_Steps/Web Service dotnet/TestMVCApp/bin/Publish/TestMVCApp.pdb
